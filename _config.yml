@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Nesoy Blog
-subtitle: Que Sera Sera
+title: YoungK Blog
+subtitle: 나만의 개발 공간
 description: Software Programmer
-author: 권영재
+author: 김영중
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
@@ -213,7 +213,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/nesoy
+  GitHub: https://github.com/quarl894
 
 
 # Social Links Icons
@@ -226,13 +226,10 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
-
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/YoungJae.jpg
+avatar: /assets/images/profile.png
 
 
 # Table Of Contents in the Sidebar
