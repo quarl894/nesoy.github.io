@@ -79,6 +79,7 @@ pivot은 아무것이나 잡아도 상관없지만 보통 중간 값을 선택�
 현실세계에서 데이터 정렬이 가장 빠른 형태로 가장 많이 쓰이는 알고리즘 중 하나.
 시간 복잡도 : O(nlogn) 최악 시 O(n^2)
 
+![select](https://quarl894.github.io/assets/images/quick.gif)
 ```java
 public void sort(int num[], int start, int end) {
 
@@ -107,7 +108,7 @@ public void sort(int num[], int start, int end) {
 }
 ```
 
-![select](https://quarl894.github.io/assets/images/quick.gif)
+
 
 
 [jekyll-gh]:   https://github.com/quarl894
