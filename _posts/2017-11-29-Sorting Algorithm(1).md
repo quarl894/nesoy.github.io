@@ -5,7 +5,7 @@ date:   2017-11-29 20:20:00 +0900
 categories: algorithm
 ---
 
-### 1. 버블정렬
+# 1. 버블정렬
 가장 쉬운 정렬 알고리즘이지만 시간복잡도가 좋지 않아 실제로는 잘 사용하지 않는다.
 인접한 두 데이터를 비교해서 정렬한다.
 시간 복잡도 : O(n^2)
@@ -32,7 +32,7 @@ public void bubbleSort(int a[]) {
     }
 ```
 
-###2. 선택정렬
+# 2. 선택정렬
 전체 원소들 중 하나씩 선택하여 기준위치 이후의 원소들을 모두 비교하여 자리를 교환하는 방식
 시간 복잡도 : O(n^2)
 공간 복잡도 : O(n)
@@ -59,7 +59,7 @@ public void selectionSort(int a[]) {
     }
 ```
 
-###3. 삽입정렬
+# 3. 삽입정렬
 1부터 n까지 Index를 설정하여 현재위치보다 앞서 위치한 원소들을 비교하여 자신보다 작으면 그 위치에 삽입한다.
 시간 복잡도 : O(n^2) 정렬이 되어 있다면 O(n)
 공간 복잡도 : O(n)
@@ -85,7 +85,7 @@ public void insertionSort(int a[]) {
         System.out.println();
     }
 ```
-###swap 메소드
+# swap 메소드
 ```java
     public  void swap(int a[], int idx1, int idx2) {
         int temp = a[idx1];
