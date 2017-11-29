@@ -11,7 +11,7 @@ categories: algorithm
 시간 복잡도 : O(n^2)
 공간 복잡도 : O(n) // 하나의 배열만 사용함.
 
-![](https://github.com/quarl894/quarl894.github.io/tree/master/assets/images/bubble.gif)
+![](quarl894.github.io/assets/images/bubble.gif)
 
 
 ```java
@@ -38,7 +38,7 @@ public void bubbleSort(int a[]) {
 시간 복잡도 : O(n^2)
 공간 복잡도 : O(n)
 
-![](https://github.com/quarl894/quarl894.github.io/tree/master/assets/images/select.gif)
+![](quarl894.github.io/assets/images/select.gif)
 
 ```java
 public void selectionSort(int a[]) {
@@ -65,7 +65,7 @@ public void selectionSort(int a[]) {
 시간 복잡도 : O(n^2) 정렬이 되어 있다면 O(n)
 공간 복잡도 : O(n)
 
-![](https://github.com/quarl894/quarl894.github.io/tree/master/assets/images/insert.gif)
+![](quarl894.github.io/assets/images/insert.gif)
 
 ```java
 public void insertionSort(int a[]) {
